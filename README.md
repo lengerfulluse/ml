@@ -1,2 +1,2 @@
 # ml
-Machine Learning reading notes and articles
+Machine Learning reading notes and articles.
